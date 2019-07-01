@@ -7,6 +7,10 @@ import UIKit
  
  So, your input will be the positions of houses and heaters seperately, and your expected output will be the minimum radius standard of heaters.
  
+ 冬天来了！您在比赛期间的第一份工作是设计一个固定温暖半径的标准加热器，以加热所有房屋。
+ 现在，您可以在水平线上获得房屋和加热器的位置，找出加热器的最小半径，以便所有房屋都能被这些加热器覆盖。
+ 因此，您的输入将分别是房屋和加热器的位置，您的预期输出将是加热器的最小半径标准。
+ 
  Note:
  
  Numbers of houses and heaters you are given are non-negative and will not exceed 25000.
