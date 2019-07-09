@@ -14,6 +14,7 @@ Title | Solution | Difficulty | Time | Space | Ideas Of Solving Problem
 [4.Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/NumberOfBoomerangs.playground/Contents.swift) | Easy| O(n<sup>2</sup>) | O(n) |
 [5.Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/IslandPerimeter.playground/Contents.swift) | Easy| O(nm) | O(1) | [Thinks](http://ww3.sinaimg.cn/large/006tNc79ly1g4mfucx8s0j306t06cwed.jpg)
 [6.Majority Element](https://leetcode.com/problems/majority-element/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/MajorityElement.playground/Contents.swift) | Easy| O(nm) | O(m) | 
+[7.Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/MajorityElementII.playground/Contents.swift) | Easy| O(n) | O(1) | 
 
 [Exercise](https://github.com/soapyigu/LeetCode-Swift#string)
 [Location](https://github.com/SummerHF/LeetCode-Exercise)
