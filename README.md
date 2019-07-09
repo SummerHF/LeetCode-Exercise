@@ -15,6 +15,7 @@ Title | Solution | Difficulty | Time | Space | Ideas Of Solving Problem
 [5.Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/IslandPerimeter.playground/Contents.swift) | Easy| O(nm) | O(1) | [Thinks](http://ww3.sinaimg.cn/large/006tNc79ly1g4mfucx8s0j306t06cwed.jpg)
 [6.Majority Element](https://leetcode.com/problems/majority-element/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/MajorityElement.playground/Contents.swift) | Easy| O(nm) | O(m) | 
 [7.Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/MajorityElementII.playground/Contents.swift) | Easy| O(n) | O(1) | 
+[8.First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/FirstMissingPositive.playground/Contents.swift) | Easy| O(n) | O(1) | 
 
 [Exercise](https://github.com/soapyigu/LeetCode-Swift#string)
 [Location](https://github.com/SummerHF/LeetCode-Exercise)

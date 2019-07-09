@@ -19,8 +19,6 @@ import UIKit
  摩尔投票算法是一种使用线性时间和常数空间查找大部分元素序列的算法.
  */
 
-
-
 func majorityElement(_ nums: [Int]) -> [Int] {
     var res = [Int]()
     if nums.count == 0 {
@@ -62,8 +60,24 @@ func majorityElement(_ nums: [Int]) -> [Int] {
     return res
 }
 
-print(majorityElement([4,2,1,1]))
-print(8/3)
+/// 查找序列中出现次数最多的元素
+func majorityElements(_ nums: [Int]) -> Int {
+    var num = 0, index = 0
+    for value in nums {
+        if value == num {
+            index += 1
+        } else if index == 0 {
+            num = value
+            index += 1
+        } else {
+            index -= 1
+        }
+    }
+    return num
+}
+
+print(majorityElements([4,2,1,1]))
+
 
 
 
