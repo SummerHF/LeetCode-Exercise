@@ -18,6 +18,8 @@ Title | Solution | Difficulty | Time | Space | Ideas Of Solving Problem
 [8.First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/FirstMissingPositive.playground/Contents.swift) | Easy| O(n) | O(1) | 
 [9.Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/IntersectionOfTwoArrays.playground/Contents.swift) | Easy| O(n) | O(n) | 
 [10.Intersection Of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/IntersectionOfTwoArraysII.playground/Contents.swift) | Easy| O(n) | O(n) | 
+[11.Contain Duplicate](hhttps://leetcode.com/problems/contains-duplicate/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/ContainDuplicate.playground/Contents.swift) | Easy| O(n) | O(n) | 
+
 [Exercise](https://github.com/soapyigu/LeetCode-Swift#string)
 [Location](https://github.com/SummerHF/LeetCode-Exercise)
 
