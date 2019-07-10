@@ -44,6 +44,8 @@ func majorityElementMethod(_ nums: [Int]) -> Int {
     return temp[nums.count / 2]
 }
 
+let notification =
+
 print(majorityElementMethod([1,1,1,1,1,2,4,5]))
 
 
