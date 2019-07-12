@@ -25,7 +25,7 @@ Title | Solution | Difficulty | Time | Space | Ideas Of Solving Problem
 
 Title | Solution | Difficulty | Time | Space | Ideas Of Solving Problem
 ---|---|---|---|---|----|
-[1.Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/String/FizzBuzz.playground/Contents.swift) | Easy | O(n) | O(1) | 
+[1.Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/String/FizzBuzz.playground/Contents.swift) | Easy | O(n) | O(n) | 
 
 [Exercise](https://github.com/soapyigu/LeetCode-Swift#string)
 [Location](https://github.com/SummerHF/LeetCode-Exercise)
