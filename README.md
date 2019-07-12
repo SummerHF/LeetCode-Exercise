@@ -4,7 +4,7 @@
 
 > Algorithm Exercise Recording
 
-# Array
+# 1. Array
 
 Title | Solution | Difficulty | Time | Space | Ideas Of Solving Problem
 ---|---|---|---|---|----|
@@ -20,6 +20,12 @@ Title | Solution | Difficulty | Time | Space | Ideas Of Solving Problem
 [10.Intersection Of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/IntersectionOfTwoArraysII.playground/Contents.swift) | Easy| O(n) | O(n) | 
 [11.Contain Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/ContainDuplicate.playground/Contents.swift) | Easy| O(n) | O(n) | 
 [12.Contain Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/ContainDuplicateII.playground/Contents.swift) | Easy| O(n) | O(m) | 
+
+# 2. String
+
+Title | Solution | Difficulty | Time | Space | Ideas Of Solving Problem
+---|---|---|---|---|----|
+[1.Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/String/FizzBuzz.playground/Contents.swift) | Easy | O(n) | O(1) | 
 
 [Exercise](https://github.com/soapyigu/LeetCode-Swift#string)
 [Location](https://github.com/SummerHF/LeetCode-Exercise)
