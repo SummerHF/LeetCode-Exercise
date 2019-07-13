@@ -20,7 +20,7 @@ Title | Solution | Difficulty | Time | Space | Ideas Of Solving Problem
 [10.Intersection Of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/IntersectionOfTwoArraysII.playground/Contents.swift) | Easy| O(n) | O(n) | 
 [11.Contain Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/ContainDuplicate.playground/Contents.swift) | Easy| O(n) | O(n) | 
 [12.Contain Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/ContainDuplicateII.playground/Contents.swift) | Easy| O(n) | O(m) | 
-
+[13.Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/RemoveDuplicatesfromSortedArray.playground/Contents.swift) | Easy| O(n) | O(1) | 
 # 2. String
 
 Title | Solution | Difficulty | Time | Space | Ideas Of Solving Problem
@@ -29,4 +29,4 @@ Title | Solution | Difficulty | Time | Space | Ideas Of Solving Problem
 
 [Exercise](https://github.com/soapyigu/LeetCode-Swift#string)
 [Location](https://github.com/SummerHF/LeetCode-Exercise)
-
+[gif](https://github.com/azl397985856/leetcode)
