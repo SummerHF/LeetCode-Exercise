@@ -27,6 +27,12 @@ Title | Solution | Difficulty | Time | Space | Ideas Of Solving Problem
 ---|---|---|---|---|----|
 [1.Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/String/FizzBuzz.playground/Contents.swift) | Easy | O(n) | O(n) | 
 
+# 3. List
+
+Title | Solution | Difficulty | Time | Space | Ideas Of Solving Problem
+---|---|---|---|---|----|
+[1.Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/List/ReverseLinkedList.playground/Contents.swift) | Easy | O(n) | O(1) | 
+
 [Exercise](https://github.com/soapyigu/LeetCode-Swift#string)
 [Location](https://github.com/SummerHF/LeetCode-Exercise)
 [gif](https://github.com/azl397985856/leetcode)
