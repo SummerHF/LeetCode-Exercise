@@ -49,10 +49,21 @@ func removeDuplicates(_ nums: inout [Int]) -> Int {
 }
 
 
+func removeDuplicatesMethodTwo(_ nums: inout [Int]) -> Int {
+    guard nums.count > 2 else { return nums.count }
+    var index = 1
+    for i in 2..<nums.count {
+        if nums[index] != nums[index-1] || nums[index] != nums[i] {
+            index += 1
+            nums[index] = nums[i]
+        }
+    }
+    return index + 1
+}
 
 var num = [0,0,1,1,1,1,2,3,3]
 print(num)
-print(removeDuplicates(&num))
+print(removeDuplicatesMethodTwo(&num))
 print(num)
 
 
