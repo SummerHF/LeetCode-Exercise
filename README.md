@@ -21,6 +21,7 @@ Title | Solution | Difficulty | Time | Space | Ideas Of Solving Problem
 [11.Contain Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/ContainDuplicate.playground/Contents.swift) | Easy| O(n) | O(n) | 
 [12.Contain Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/ContainDuplicateII.playground/Contents.swift) | Easy| O(n) | O(m) | 
 [13.Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/RemoveDuplicatesfromSortedArray.playground/Contents.swift) | Easy| O(n) | O(1) | 
+[14.Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/RemoveDuplicatesfromSortedArrayII.playground/Contents.swift) | Easy| O(n) | O(1) | 
 # 2. String
 
 Title | Solution | Difficulty | Time | Space | Ideas Of Solving Problem

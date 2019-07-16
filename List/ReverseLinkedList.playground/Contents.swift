@@ -35,6 +35,7 @@ class ListNode: CustomStringConvertible {
     }
 }
 
+/// Iteratively
 func reverseListByIteratively(_ head: ListNode?) -> ListNode? {
     var newHead: ListNode? = nil
     var tempHead = head
@@ -45,6 +46,20 @@ func reverseListByIteratively(_ head: ListNode?) -> ListNode? {
         tempHead = next
     }
     return newHead
+}
+
+/// Recursively
+func reverseListByRecursively(_ head: ListNode?) -> ListNode? {
+    return reverseByRecursively(head: head, newHead: nil)
+}
+
+func reverseByRecursively(head: ListNode?, newHead: ListNode?) -> ListNode? {
+    if head == nil {
+        return newHead
+    }
+    let next = head?.next
+    head?.next = newHead
+    return reverseByRecursively(head: next, newHead: head)
 }
 
 var node1 = ListNode(1)
@@ -58,5 +73,5 @@ node2.next = node3
 node3.next = node4
 node4.next = node5
 
-print(reverseListByIteratively(node1)?.description)
+print(reverseListByRecursively(node1)?.description)
 
