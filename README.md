@@ -24,6 +24,8 @@ Title | Solution | Difficulty | Time | Space | Ideas Of Solving Problem
 [14.Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/RemoveDuplicatesfromSortedArrayII.playground/Contents.swift) | Easy| O(n) | O(1) | 
 [15.Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/MoveZeroes.playground/Contents.swift) | Easy| O(n) | O(1) | 
 [16.Move Element](https://leetcode.com/problems/remove-element/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/RemoveElement.playground/Contents.swift) | Easy| O(n) | O(1) | 
+[17.Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](https://github.com/SummerHF/LeetCode-Exercise/blob/master/Array/TwoSum.playground/Contents.swift) | Easy| O(n) | O(1) | 
+
 # 2. String
 
 Title | Solution | Difficulty | Time | Space | Ideas Of Solving Problem
